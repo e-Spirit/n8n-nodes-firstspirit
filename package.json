@@ -33,6 +33,7 @@
 		"prepublishOnly": "n8n-node prerelease"
 	},
 	"publishConfig": {
+		"access": "public",
 		"tag": "latest"
 	},
 	"files": [
