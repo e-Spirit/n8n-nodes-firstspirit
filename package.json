@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-firstspirit",
-	"version": "0.0.25-beta",
+	"version": "0.0.25-beta.0",
 	"description": "n8n integration for the FirstSpirit REST API",
 	"keywords": [
 		"n8n",
